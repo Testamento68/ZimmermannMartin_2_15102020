@@ -1,0 +1,469 @@
+@media screen and (max-width: 734px)
+{
+#bloc-page
+{
+	width: auto;
+}
+
+header
+{
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+#titre
+{
+	width: 340px;
+}
+
+#logo
+{
+	margin-left: 10px;
+	margin-top: 20px;
+}
+
+#logo img
+{
+	height: 45px;
+}
+
+.inscri
+{
+	margin-left: 245px;
+	margin-top: -150px;
+}
+
+.inscri:hover
+{
+	border-top: 2px solid rgba(0,0,0,0);
+}
+
+nav
+{
+	margin-top: -190px;
+}
+
+.heber
+{
+	display: inline-block;
+	padding-left: 60px;
+	height: 35px;
+	width: 155px;
+	border-bottom: 2px solid #F2F2F2;
+	margin-left: -10px;
+}	
+
+.heber:hover
+{
+	border-bottom: 2px solid #0065FC;
+	border-top: 2px solid rgba(0,0,0,0);
+}
+
+.acti
+{
+	margin-top: -36px;
+	margin-left: -4px;
+	padding-left: 45px;
+	display: inline-block;
+	height: 35px;
+	width: 164px;
+	border-bottom: 2px solid #F2F2F2;
+}
+
+.acti:hover
+{
+	border-bottom: 2px solid #0065FC;
+	border-top: 2px solid rgba(0,0,0,0);
+}
+
+#titre h1
+{
+	width: 320px;
+	margin-left: 10px;
+	margin-top: 95px;
+	letter-spacing: -0.066em;
+}
+
+.titre-centreville
+{
+	letter-spacing: -0.052em;
+	margin-left: 10px;
+	margin-top: 16px;
+}
+
+#rechercher
+{
+	margin-top: 36px;
+	margin-left: -45px;
+	width: 380px;
+}
+
+#rechercher input
+{
+	width: 330px;
+}
+
+form a
+{
+	width: 53px;
+	margin-left: -50px;
+	font-size: 0px;
+	border-radius: 15px;
+}
+
+.fa-search
+{
+	font-size: 18px;
+	color: white;
+	padding-top: 4px;
+}
+
+#filtres
+{
+	margin-top: 65px;
+	margin-left: 10px;
+	width: 340px;
+	display: flex;
+	flex-wrap: wrap;
+	height: 260px;
+	justify-content: flex-start;
+	align-items: center;
+}
+
+.filtretitle
+{
+	font-size: 1em;
+	line-height: 16px;
+	padding-left: 15px;
+}
+
+.bloc-filtres
+{
+	display: flex;
+	justify-content: center;
+}
+
+#beconomique
+{
+	margin-top: 110px;
+	margin-left: -55px;
+	width: 170px;
+}
+
+#bfamilial
+{
+	margin-top: 110px;
+	margin-left: 10px;
+	width: 138px;
+}
+
+#bromantique
+{
+	margin-top: 10px;
+	width: 169px;
+}
+
+#banimaux
+{
+	margin-top: 10px;
+	width: 220px;
+}
+
+.animaux
+{
+	font-size: 1em;
+	line-height: 16px;
+}
+
+#logdispo
+{
+	margin-top: 10px;
+	justify-content: center;
+}
+
+.logements-dispo
+{
+	width: 300px;
+	font-size: 1em;
+}
+
+#logologements
+{
+	margin-left: -40px;
+}
+
+#section1
+{
+	display: flex;
+	flex-direction: column-reverse;
+}
+
+#popgeneral
+{
+	margin-left: -10px;
+	border-radius: 0px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	width: 100%;
+	padding-right: 20px;
+	padding-bottom: 40px;
+}
+
+aside
+{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+
+#titrepop p
+{
+	font-size: 1.4em;
+	margin-top: 40px;
+	margin-left: 20px;
+}
+
+#titrepop i
+{
+	margin-left: 90px;
+	margin-top: 40px;
+}
+
+#popularbox
+{
+	margin-left: -10px;
+	width: 335px;
+}
+
+#popularbox2
+{
+	margin-left: -10px;
+	width: 335px;
+}
+
+#popularbox2
+{
+	margin-left: -10px;
+	width: 335px;
+	margin-top: 10px;
+}
+
+#popularbox3
+{
+	margin-left: -10px;
+	width: 335px;
+	margin-top: 10px;
+}
+
+#hebergeneral
+{
+	margin-left: -8px;
+	background-color: white;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	width: 100%;
+}
+
+.hebamarseille
+{
+	margin-left: -20px;
+	margin-top: 35px;
+	font-size: 1.4em;
+}
+
+.hostelbox
+{
+	width: 335px;
+	margin-left: -20px;
+}
+
+.hostelbox img
+{
+	width: 328px;
+	height: 116px;
+}
+
+article
+{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin-top: 5px;
+}
+
+#hostelbox2 
+{
+	margin-top: 10px;
+}
+
+#hostelbox3
+{
+	margin-top: 20px;
+}
+
+#hostelbox4
+{
+	margin-top: -20px;
+}
+
+#hostelbox5
+{
+	margin-top: -20px;
+}
+
+#hostelbox6
+{
+	margin-top: -20px;
+}
+.afficher-plus
+{
+	margin-top: 10px;
+	margin-left: -240px;
+	font-size: 1.3em;
+}
+
+#section2
+{
+	margin-top: 32px;
+	display: flex;
+	flex-direction: column;
+	margin-left: 10px;
+	width: 100%;
+	align-items: center;
+}
+
+.actimarseille
+{
+	margin-top: 0px;
+	margin-left: 15px;
+}
+
+.blocacti
+{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.actiimg3
+{
+	height: 0px;
+	width: 0px;
+}
+
+#vieuxport
+{
+	height: 190px;
+	width: 335px;
+	margin-left: -17px;
+	margin-top: 0px;
+}
+
+.actiimg2
+{
+	height: 136px;
+	width: 335px;
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+	margin-top: -20px;
+}
+
+#fort
+{
+	height: 190px;
+	width: 335px;
+	margin-left: -17px;
+	margin-top: 24px;
+}
+
+#fort img
+{
+	height: 136px;
+	width: 335px;
+}
+
+#frioul
+{
+	height: 190px;
+	width: 335px;
+	margin-left: -17px;
+	margin-top: 24px;
+}
+
+#frioul img
+{
+	height: 136px;
+	width: 335px;
+}
+
+#parcnational
+{
+	height: 190px;
+	width: 335px;
+	margin-left: -17px;
+	margin-top: 24px;
+}
+
+#parcnational img
+{
+	height: 136px;
+	width: 335px;
+}
+
+#notredame
+{
+	height: 190px;
+	width: 335px;
+	margin-left: -17px;
+	margin-top: 24px;
+}
+
+#notredame img
+{
+	height: 136px;
+	width: 335px;
+}
+
+#longchamp
+{
+	height: 190px;
+	width: 335px;
+	margin-left: -17px;
+	margin-top: 24px;
+}
+
+#longchamp img
+{
+	height: 136px;
+	width: 335px;
+}
+
+footer
+{
+	display: flex;
+	flex-direction: column; 
+	height: 500px;
+	margin-left: -8px;
+}
+
+#a-propos
+{
+	margin-left: 25px;
+}
+
+#nos-hebergements
+{
+	margin-left: 25px;
+	margin-top: -40px;
+}
+
+#assistance
+{
+	margin-left: 25px;
+}
+}
